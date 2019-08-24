@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a218c199f4a419db20b504767e607f37",
+    "revision": "4a2ffb471b97b8142d1fee4b46f5b469",
     "url": "/REACT-clothing-ecommerce/index.html"
   },
   {
-    "revision": "b47cc2713fe375d3fe89",
+    "revision": "26ec7daea689ce476e44",
     "url": "/REACT-clothing-ecommerce/static/css/main.5443cf96.chunk.css"
   },
   {
-    "revision": "edb6a1b98f1d7725a97f",
-    "url": "/REACT-clothing-ecommerce/static/js/2.72c67392.chunk.js"
+    "revision": "7a33ce5e445d3029396c",
+    "url": "/REACT-clothing-ecommerce/static/js/2.b0a54765.chunk.js"
   },
   {
-    "revision": "b47cc2713fe375d3fe89",
-    "url": "/REACT-clothing-ecommerce/static/js/main.c3cf4d00.chunk.js"
+    "revision": "26ec7daea689ce476e44",
+    "url": "/REACT-clothing-ecommerce/static/js/main.0fd019d4.chunk.js"
   },
   {
     "revision": "0222330c6ada304d83c7",
